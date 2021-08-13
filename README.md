@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Thiagodsla
-- 👀 I’m interested in Front-end discovery...
-- 🌱 I’m currently learning ...
+## Hi there! I'm Thiago <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<!---
-Thiagodsla/Thiagodsla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thiagodslima)
+
+### Abstract
+- 🌱 I’m currently learning ...
+- 💙 Interests: Games 👾, Movies and action sports
+
