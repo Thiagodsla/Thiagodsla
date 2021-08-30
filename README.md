@@ -2,4 +2,4 @@
   
   ### Abstract
 - 🌱 I’m currently learning ...
-- 💙 Interests: Games 👾, Movies and action sports
+- 💙 Interests: Games 👾, Movies and action sports.
