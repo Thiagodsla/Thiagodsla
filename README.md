@@ -1,33 +1,42 @@
 ## Hi there! I'm Thiago <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thiagodslima/)
 
-<!--
-<p align="center">
-  <a href="#">
-    <img align="center" width="510" src="signature.png" />
-  </a>
-  <a href="#">
-    <img align="center" width="510" src="banner.gif" />
-  </a>
-</p>
--->
-<p align="center">
-  <a href="https://github.com/Thiagodsla/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagodsla&layout=compact&theme=radical"
-    />
-  </a>
-  <a href="https://github.com/Thiagodsla/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=Thiagodsla&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
-    />
-  </a>
+- 🌱 I’m currently learning ...<br>
+- 💙 Interests: <br>
+👾 Games <br>
+ 🎞️ Movies<br>
+ 🏀 Sports
+
+## 🔀 &nbsp;Social Links
+
+
+<a href="https://www.linkedin.com/in/thiagodslima/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin"/>
+</a>
+
+
+
+
+## ⚙️ &nbsp;GitHub Analytics
+
+
+
+<p align="left">
+<img width="430em" src="https://github-readme-stats.vercel.app/api?username=Thiagodsla&show_icons=true&bg_color=35495e&title_color=42b883&icon_color=42b883&text_color=fff&show_border&border_color=42b883&border_radius=10" alt="Thiago's stats"/>
+<br>
+  <img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagodsla&layout=compact&bg_color=35495e&title_color=42b883&icon_color=42b883&text_color=42b883&show_border&border_color=42b883&border_radius=10" alt="Thiago's most languages"/>
 </p>
 
-  ### Abstract
-- 🌱 I’m currently learning ...
-- 💙 Interests: Games 👾, Movies and action sports.
+  
+
+## 🛠 &nbsp;Tech Stack
+
+
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+
+## ❤ &nbsp; Want to learn
+
+![VueJS](https://img.shields.io/badge/-Vue.js-05122A?style=for-the-badge&logo=vue.js)&nbsp;
+![React](https://img.shields.io/badge/-react-05122A?style=for-the-badge&logo=react)&nbsp;
