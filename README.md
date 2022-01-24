@@ -35,10 +35,11 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+![VueJS](https://img.shields.io/badge/-Vue.js-05122A?style=for-the-badge&logo=vue.js)&nbsp;
 
 ## ❤ &nbsp; Want to learn
 
-![VueJS](https://img.shields.io/badge/-Vue.js-05122A?style=for-the-badge&logo=vue.js)&nbsp;
+
 ![React](https://img.shields.io/badge/-react-05122A?style=for-the-badge&logo=react)&nbsp;
 
 
