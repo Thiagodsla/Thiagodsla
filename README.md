@@ -43,5 +43,4 @@
 ![React](https://img.shields.io/badge/-react-05122A?style=for-the-badge&logo=react)&nbsp;
 
 
-<br><br><br>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Thiagodsla&color=yellow" alt="Profile views" /> </p>
+
