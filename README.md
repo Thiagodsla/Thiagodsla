@@ -1,7 +1,6 @@
 ## Hi there! I'm Thiago <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 
-- 🌱 I’m currently learning ...<br>
 - 💙 Interests: <br>
 👾 Games <br>
  🎞️ Movies<br>
