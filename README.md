@@ -21,8 +21,10 @@
 
 
 <p align="left">
-<!-- <img width="430em" src="https://github-readme-stats.vercel.app/api?username=Thiagodsla&show_icons=true&bg_color=35495e&title_color=42b883&icon_color=42b883&text_color=fff&show_border&border_color=42b883&border_radius=10" alt="Thiago's stats"/> -->
-<br>
+<!-- <img width="430em" src="https://github-readme-stats.vercel.app/api?username=Thiagodsla&show_icons=true&bg_color=35495e&title_color=42b883&icon_color=42b883&text_color=fff&show_border&border_color=42b883&border_radius=10" alt="Thiago's stats"/>
+ <br>
+ -->
+
   <img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagodsla&layout=compact&bg_color=35495e&title_color=42b883&icon_color=42b883&text_color=42b883&show_border&border_color=42b883&border_radius=10" alt="Thiago's most languages"/>
 </p>
 
