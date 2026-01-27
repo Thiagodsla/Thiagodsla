@@ -38,10 +38,12 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![VueJS](https://img.shields.io/badge/-Vue.js-05122A?style=for-the-badge&logo=vue.js)&nbsp;
 ![VueJS](https://img.shields.io/badge/-Ruby_on_Rails-05122A?style=for-the-badge&logo=ruby-on-rails)&nbsp;
+![React](https://img.shields.io/badge/-react-05122A?style=for-the-badge&logo=react)&nbsp;
 
 ## 🕮 &nbsp; Learning 
+C#, English
 
-![React](https://img.shields.io/badge/-react-05122A?style=for-the-badge&logo=react)&nbsp;
+
 
 <!-- ## ❤ &nbsp; Want to learn  -->
 
